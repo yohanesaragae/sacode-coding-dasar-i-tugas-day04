@@ -3,5 +3,5 @@ Tugas Day 04
 
 ##  Demo Hasil Coding
 
-Link GitHub Pages di bawah ini : 
+Link GitHub Pages :
 https://yohanesaragae.github.io/sacode-coding-dasar-i-tugas-day04/
